@@ -2,8 +2,7 @@
 A GoLang library to sort slices of strings in Natural Sort order and based on the numerical weightage.
 
 [![Go
-Reference](https://pkg.go.dev/badge/github.com/wasim-nihal/gonatsort.svg)](https://pkg.go.dev/github.com/wasim-nihal/gonatsort)
-
+Reference](https://pkg.go.dev/badge/github.com/wasim-nihal/gonatsort.svg)](https://pkg.go.dev/github.com/wasim-nihal/gonatsort) ![Build](https://github.com/wasim-nihal/gonatsort/actions/workflows/go.yml/badge.svg) ![Security Check](https://github.com/wasim-nihal/gonatsort/actions/workflows/codeql.yml/badge.svg)
 ## Usage
 
 1. Get the package:
