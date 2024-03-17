@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # GoNatSort 
+=======
+# gonatsort
+>>>>>>> 9e8d498fb90a56279c1b9b477ef87799d252aef4
 A GoLang library to sort slices of strings in Natural Sort order and based on the numerical weightage.
 
 [![Go
