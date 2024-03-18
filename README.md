@@ -26,7 +26,7 @@ Reference](https://pkg.go.dev/badge/github.com/wasim-nihal/gonatsort.svg)](https
     	arr1 := []string{"bar2", "foo", "foo123", "foo2", "bar001"}
     	sort.Stable(gonatsort.NatSorter(arr1))
     	// Output: [bar001 bar2 foo foo2 foo123]
-    	fmt.Println(x)
+    	fmt.Println(arr1)
     }
     ```
     
